@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC5E02F6-5C61-4BEA-BFC9-D4DDA8891062"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E984D910-9395-473E-A62D-297B34364922"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollabHub/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5618AE16-A081-403D-B2E4-F8B56E944AA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollabHub/DataStore/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "getIssuesFortheUser(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5618AE16-A081-403D-B2E4-F8B56E944AA2 - 95c5947239373f92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollabHub.DataStore.getIssuesFortheUser(completion: (Swift.Optional&lt;Swift.Array&lt;CollabHub.Issue&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/DataStore/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "5618AE16-A081-403D-B2E4-F8B56E944AA2 - 21ea80cc25a8797d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CollabHub.Issue&gt;, Swift.Error&gt;) -&gt; () in CollabHub.DataStore.getIssuesFortheUser(completion: (Swift.Optional&lt;Swift.Array&lt;CollabHub.Issue&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/DataStore/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE1774F0-FBDF-47BD-BF72-DC5F4DD3DDB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollabHub/DataStore/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "getIssuesFortheUser(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE1774F0-FBDF-47BD-BF72-DC5F4DD3DDB4 - 21ea80cc25a878bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CollabHub.Issue&gt;, Swift.Error&gt;) -&gt; () in CollabHub.DataStore.getIssuesFortheUser(completion: (Swift.Optional&lt;Swift.Array&lt;CollabHub.Issue&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/DataStore/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AE1774F0-FBDF-47BD-BF72-DC5F4DD3DDB4 - 21ea80cc25a878bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CollabHub.Issue&gt;, Swift.Error&gt;) -&gt; () in CollabHub.DataStore.getIssuesFortheUser(completion: (Swift.Optional&lt;Swift.Array&lt;CollabHub.Issue&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/DataStore/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B3EE7BF-A892-4A51-87FE-F77F7B909B7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollabHub/WebServices/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "fetchIssueData(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B3EE7BF-A892-4A51-87FE-F77F7B909B7D - dbf26f0b209926c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollabHub.NetworkService.fetchIssueData(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;CollabHub.Issue&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/WebServices/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "4B3EE7BF-A892-4A51-87FE-F77F7B909B7D - a26b9c0b24374972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CollabHub.NetworkService.fetchIssueData(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;CollabHub.Issue&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollabHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinrevi/Documents/Personal-US/CollabHub/CollabHub/WebServices/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E63AA93-46FB-4914-8DDA-198DA610DF06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollabHub/WebServices/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "fetchIssueData(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
